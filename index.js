@@ -9,3 +9,4 @@ const inquirer = require("inquirer");
 
 const OUTPUT_DIR = path.resolve(__dirname, "Structure");
 const outputPath = path.join(OUTPUT_DIR, "Team.html");
+const generateTeam = require("./src/template.js")
