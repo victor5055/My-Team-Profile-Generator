@@ -147,4 +147,17 @@ function runApp () {
 
   }
 
+  //function to create Team//
+  function htmlBuilder () {
+    console.log("Team created!")
+
+    fs.writeFileSync(outputPath, generateTeam(teamArray), "UTF-8")
+
 }
+
+createTeam();
+
+}
+//Function to run app//
+runApp();
+
