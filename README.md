@@ -41,3 +41,62 @@ THEN I exit the application, and the HTML is generated.
 ## Contribution-Guidelines
 ###### [Back to Table of Contents](#Table-of-Contents)
 none
+
+## Installation
+###### [Back to Table of Contents](#Table-of-Contents)
+Run 'npm install' to install dependencies
+
+Run 'node app.js' to run program
+
+Open the 'team.html' file from the output folder in a web browser to view
+
+To clone the repo:
+  
+git clone git@github.com:victor5055/My-Team-Profile-Generator.git
+
+## Overview: What Was Accomplished!
+### Workflow [Back to Table of Contents](#Table-of-Contents)
+Created an Awesome webpage that displays my team's basic info so that I have access to emails and GitHub profiles.
+
+
+## Tests 
+###### [Back to Table of Contents](#Table-of-Contents)
+
+It is recommended that you follow this workflow:
+
+Run tests
+
+Create or update classes to pass a single test case
+
+Repeat
+
+Remember, you can run the tests at any time with:
+
+"npm run test"
+
+
+### Screenshots (Building this application)
+###### [Back to Table of Contents](#Table-of-Contents)
+![](./)
+
+## Repositiory-End-Goal-Criterea
+###### [Back to Table of Contents](#Table-of-Contents)
+Stay on Task
+
+## License
+MIT
+* For more information on license types, please reference this website
+for additional licensing information - [https: //choosealicense.com/](https://choosealicense.com/).
+
+
+## Contact
+###### [Back to Table of Contents](#Table-of-Contents)
+* Github Username: victor5055
+* Github Profile link:(https://github.com/victor5055)
+* Email: victor5055@outlook.com
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
