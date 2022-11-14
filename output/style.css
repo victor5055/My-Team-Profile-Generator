@@ -1,3 +1,4 @@
+/*Title*/
 .jumbotron {
     text-align: center;
     text-transform: uppercase;
@@ -12,13 +13,13 @@
     text-transform: capitalize;
 	
 }
-
+/*Employee card*/
 .employee-card {
     box-shadow: 5px 5px 5px yellowgreen;
     margin: 1rem;
     border: 3px solid yellow;
 }
-
+/*Body of Employee card*/
 .card-body {
     background-color: rgb(240, 240, 240);
 }

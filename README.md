@@ -1,6 +1,6 @@
 # My-Team-Profile-Generator
 
-[Deployed Application]
+[Video Demo] (https://drive.google.com/file/d/1QQms41Iz0e1zEz5FqA5F1PJRbw4VEfUq/view)
 [licenseBadge] [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
@@ -46,7 +46,7 @@ none
 ###### [Back to Table of Contents](#Table-of-Contents)
 Run 'npm install' to install dependencies
 
-Run 'node app.js' to run program
+Run 'node index.js' to run program
 
 Open the 'team.html' file from the output folder in a web browser to view
 
@@ -77,7 +77,9 @@ Remember, you can run the tests at any time with:
 
 ### Screenshots (Building this application)
 ###### [Back to Table of Contents](#Table-of-Contents)
-![](./)
+![](./media/MyGtTeam.PNG)
+![](./media/Tests.PNG)
+![](./media/Node.PNG)
 
 ## Repositiory-End-Goal-Criterea
 ###### [Back to Table of Contents](#Table-of-Contents)
